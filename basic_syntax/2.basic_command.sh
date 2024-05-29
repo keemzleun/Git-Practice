@@ -34,3 +34,5 @@ git checkout 커밋ID
 
 # 다시 현재의 master(브랜치)의 commit으로 return
 git checkout master
+
+# 원격의 변경사항을 local로 다운로드
