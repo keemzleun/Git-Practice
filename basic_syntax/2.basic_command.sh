@@ -36,3 +36,10 @@ git checkout 커밋ID
 git checkout master
 
 # 원격의 변경사항을 local로 다운로드
+git pull origin 브랜치명
+
+# git 작업 취소
+# working directory에서의 취소
+# staging area에서의 취소
+# commit 이후의 취소
+# push 이후의 취소
