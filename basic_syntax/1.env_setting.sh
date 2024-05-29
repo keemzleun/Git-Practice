@@ -30,3 +30,5 @@ git remote set-url origin 레포주소
 
 # git 설정 정보 조회
 git config --list
+
+
