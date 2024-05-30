@@ -77,6 +77,7 @@ git stash show -p 인덱스
 # 저장한 stash 목록 전체 삭제
 git stash clear
 
+
 # 버전 명시 tagging
 git tag v1.0
 git tag v1.0 -m "1.주요사항1 2.주요사항2"
@@ -87,6 +88,7 @@ git push origin v1.0
 
 # tag 목록 조회
 git tag
+
 
 # branch 생성
 # 현재 checkout하고 있는 브랜치를 기준으로 브랜치 생성
